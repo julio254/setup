@@ -1,7 +1,7 @@
 List of my VIM plugins 
 
-vim-multiple-cursors https://github.com/terryma/vim-multiple-cursors
-theNERDTree https://github.com/preservim/nerdtree
-ALE (Asynchronous Lint Engine) https://github.com/dense-analysis/ale
-fzf https://github.com/junegunn/fzf.vim
-lightline https://github.com/itchyny/lightline.vim
+vim-multiple-cursors                      https://github.com/terryma/vim-multiple-cursors
+theNERDTree                               https://github.com/preservim/nerdtree
+ALE (Asynchronous Lint Engine)            https://github.com/dense-analysis/ale
+fzf                                       https://github.com/junegunn/fzf.vim
+lightline                                 https://github.com/itchyny/lightline.vim
